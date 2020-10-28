@@ -29,7 +29,7 @@ public class Display extends javax.swing.JDialog {
         inittxt();
         this.setVisible(true);
     }
-    
+    //yeah yeah
     public void inittxt(){    
         Collections.sort(list);
         for (int i = 0; i < list.size(); i++) {
